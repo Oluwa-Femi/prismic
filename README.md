@@ -1,2 +1,2 @@
 # prismic
-Prismic test out
+Prismic test out with nuxtJS
