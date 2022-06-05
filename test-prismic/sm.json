@@ -1,7 +1,7 @@
 {
-  "_latest": "0.3.8",
-  "apiEndpoint": "https://femioluwatola.prismic.io/api/v2",
+  "apiEndpoint": "https://testfemi.cdn.prismic.io/api/v2",
   "libraries": [
-    "@/slices"
-  ]
+    "vue-essential-slices"
+  ],
+  "storybook": "http://localhost:3003"
 }
