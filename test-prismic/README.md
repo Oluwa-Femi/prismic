@@ -1,4 +1,4 @@
-# test-prismic
+# test
 
 ## Build Setup
 
